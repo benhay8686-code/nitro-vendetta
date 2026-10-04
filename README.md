@@ -14,7 +14,7 @@ JOIN BEN. Everyone needs the same version.
 
 **What's in it:** races and time trials on four circuits and the streets of Vendetta City, a car battle royale with
 weapons, 2-player split screen, and ON FOOT: THE YARD, THE ISLET and ISLA VENDETTA (24 players with bots, an airship
-drop and loot). The full controls and what changed in each version are in CONTROLS.txt
+drop, loot and - in single player - parked cars to drive around the island). The full controls and what changed in each version are in CONTROLS.txt
 next to the game after installing.
 
 All car names and brands in the game are made up. Third-party assets and their licences (CC0 art and sounds, a CC BY
