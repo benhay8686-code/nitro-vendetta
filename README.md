@@ -12,7 +12,7 @@ controller is best; keyboard and mouse work too.
 **Play online:** when Ben is hosting, start the game - it goes straight into his lobby - or open ONLINE and press
 JOIN BEN. Everyone needs the same version.
 
-**What's in it:** races and time trials on five circuits - including VENDETTA GRAND PRIX, which runs from a race track through a tunnel into city streets - and the streets of Vendetta City, a car battle royale with
+**What's in it:** seven cars - the X5M widebody, an F1-style racer, two hypercars and, new in 0.26, three street cars (the HAVOC RS hot hatch, the KITSUNE RS drift coupe and the MAULER V8 muscle car) - races and time trials on five circuits - including VENDETTA GRAND PRIX, which runs from a race track through a tunnel into city streets - and the streets of Vendetta City, a car battle royale with
 weapons, 2-player split screen, and ON FOOT: THE YARD, THE ISLET and ISLA VENDETTA (24 players with bots, an airship
 drop, loot and - in single player - parked cars to drive around the island). The full controls and what changed in each version are in CONTROLS.txt
 next to the game after installing.
